@@ -1,2 +1,5 @@
 # hello-world
-A little about me
+
+New coder
+INFJ
+EE graduate 2016
